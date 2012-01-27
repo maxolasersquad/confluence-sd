@@ -12,7 +12,7 @@
     defaultthemename="textures.xbt"
     debugging="false"
     effectslowdown="0.75">
-    <res width="1280" height="720" aspect="4:3" default="true" folder="720p" />
+    <res width="720" height="480" aspect="4:3" default="true" folder="480i" />
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="bg">Облик Confluence от Jezz_X. (стандартния облик на XBMC)</summary>
